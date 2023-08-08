@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IotCoreDemo", "IotCoreDemo.csproj", "{305D6753-3080-4605-AD1E-B35F32CB635B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{7ACC6800-B1DF-4092-8ACE-A02407EDAA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\Core\Core.csproj", "{8618D1B3-1D02-4AD3-8991-8DE3A80E1292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305D6753-3080-4605-AD1E-B35F32CB635B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305D6753-3080-4605-AD1E-B35F32CB635B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305D6753-3080-4605-AD1E-B35F32CB635B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305D6753-3080-4605-AD1E-B35F32CB635B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACC6800-B1DF-4092-8ACE-A02407EDAA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACC6800-B1DF-4092-8ACE-A02407EDAA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACC6800-B1DF-4092-8ACE-A02407EDAA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACC6800-B1DF-4092-8ACE-A02407EDAA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8618D1B3-1D02-4AD3-8991-8DE3A80E1292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8618D1B3-1D02-4AD3-8991-8DE3A80E1292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8618D1B3-1D02-4AD3-8991-8DE3A80E1292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8618D1B3-1D02-4AD3-8991-8DE3A80E1292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B063D957-083A-4879-A73D-F7F2A6AC0FA0}
+	EndGlobalSection
+EndGlobal
