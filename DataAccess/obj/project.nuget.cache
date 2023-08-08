@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ba4DGoAQw1GWIrSIpAgUid1RF0iHP9PDrGcut8VM4m0JBREhjaS2CrGgO7u7soITyESR1fK6IN467pJDQSExfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luise\\Documents\\Dev\\Proto\\IotCoreDemo\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luise\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\luise\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\luise\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\luise\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\luise\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\luise\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\luise\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
