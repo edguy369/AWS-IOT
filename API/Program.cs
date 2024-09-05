@@ -15,10 +15,10 @@ builder.Services.AddSwaggerGen();
 builder.Services.ConfigureDataAccessLayer(builder.Configuration);
 
 
-var broker = "a60l4gfegqa2k-ats.iot.us-east-2.amazonaws.com"; //<AWS-IoT-Endpoint>           
+var broker = "YOUR_BROKER"; //<AWS-IoT-Endpoint>           
 var port = 8883;
-var clientId = "API";
-var certPass = "C@d1ngT1p1";
+var clientId = "YOUR_CLIENT";
+var certPass = "YOU_PASS";
 
 var certificatesPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "certs");
 
